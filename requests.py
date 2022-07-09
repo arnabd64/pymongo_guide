@@ -1,7 +1,6 @@
 from connection import Connection
 
 
-
 # Setup connection
 cnx = Connection()
 
